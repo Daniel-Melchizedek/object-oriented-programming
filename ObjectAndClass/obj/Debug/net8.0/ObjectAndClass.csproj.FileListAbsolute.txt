@@ -1,0 +1,14 @@
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\bin\Debug\net8.0\ObjectAndClass.exe
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\bin\Debug\net8.0\ObjectAndClass.deps.json
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\bin\Debug\net8.0\ObjectAndClass.runtimeconfig.json
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\bin\Debug\net8.0\ObjectAndClass.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\bin\Debug\net8.0\ObjectAndClass.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.AssemblyInfoInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.AssemblyInfo.cs
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.csproj.CoreCompileInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\refint\ObjectAndClass.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ObjectAndClass.genruntimeconfig.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ObjectAndClass\obj\Debug\net8.0\ref\ObjectAndClass.dll

@@ -1,0 +1,11 @@
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.AssemblyInfoInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.AssemblyInfo.cs
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\bin\Debug\net8.0\Acme.Common.deps.json
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\bin\Debug\net8.0\Acme.Common.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\bin\Debug\net8.0\Acme.Common.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\refint\Acme.Common.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\Acme.Common.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\Acme.Common\obj\Debug\net8.0\ref\Acme.Common.dll

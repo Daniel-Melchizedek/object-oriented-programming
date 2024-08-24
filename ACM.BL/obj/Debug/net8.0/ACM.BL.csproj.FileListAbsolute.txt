@@ -1,0 +1,15 @@
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\bin\Debug\net8.0\ACM.BL.deps.json
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\bin\Debug\net8.0\ACM.BL.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\bin\Debug\net8.0\ACM.BL.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.AssemblyInfo.cs
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\refint\ACM.BL.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ref\ACM.BL.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\bin\Debug\net8.0\Acme.Common.dll
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\bin\Debug\net8.0\Acme.Common.pdb
+C:\Users\daniel.thomas.samuel\OneDrive - Accenture\Documents\OOP_Fundamentals\Introduction\Introduction\ACM.BL\obj\Debug\net8.0\ACM.BL.csproj.Up2Date
